@@ -1,2 +1,0 @@
-# Harjutamine
-versioonihalduse harjutamisega GitHubis.
